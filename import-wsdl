@@ -1,0 +1,4 @@
+Copy the all the files from the below into one folder and then run this command to generate the stub
+
+java -classpath C:\Users\nnave\Downloads\SF\force-wsc-43.0.0.jar;C:\Users\nnave\Downloads\SF\tools.jar;C:\Users\nnave\Downloads\SF\rhino-1.7.9.jar;C:\Users\nnave\Downloads\SF\ST-4.0.8.jar  com.sforce.ws.tools.wsdlc  generateEnterprise.wsdl  C:\Users\nnave\Downloads\SF\enterprise_stub.jar
+
